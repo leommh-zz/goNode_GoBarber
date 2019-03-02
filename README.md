@@ -1,5 +1,5 @@
 # goNode_GoBarber
-Lesson 1 for module goNode of bootcamp (rocketseat)
+Lesson 2 (barber system) for module goNode of bootcamp (rocketseat)
 <br><br>
 
 ## Install Project:
